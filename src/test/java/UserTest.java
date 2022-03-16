@@ -1,5 +1,5 @@
 import org.junit.jupiter.api.Test;
-import rest.pas.restpas.Model.DTO.UserDTO;
+import rest.pas.restpas.model.DTO.userDTO.UserDTO;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;

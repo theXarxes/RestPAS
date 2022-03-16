@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
-import rest.pas.restpas.Model.DTO.ResourceDTO;
-import rest.pas.restpas.Model.Repositories.ResourceRepository;
+import rest.pas.restpas.model.DTO.resourceDTO.ResourceDTO;
+import rest.pas.restpas.model.repository.ResourceRepository;
 
 import javax.inject.Inject;
 import javax.ws.rs.client.Client;

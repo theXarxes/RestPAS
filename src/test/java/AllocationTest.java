@@ -1,6 +1,6 @@
 import org.junit.jupiter.api.Test;
-import rest.pas.restpas.Model.DTO.ResAllMarkerDTO;
-import rest.pas.restpas.Model.DTO.ResourceDTO;
+import rest.pas.restpas.model.DTO.markerDTO.ResAllMarkerDTO;
+import rest.pas.restpas.model.DTO.resourceDTO.ResourceDTO;
 
 import javax.ws.rs.client.Client;
 import javax.ws.rs.client.ClientBuilder;
